@@ -16,6 +16,16 @@
                       
                     </form>
                 </div>
+                
+                                
+                <div id="widget_title"><a href="">Posts</a></div>
+                <div id="widget_contenu">
+                    <a href="">Post1</a>
+                     <a href="">Post2</a>
+                      <a href="">Post3</a>
+                      
+                    </form>
+                </div>
                                 
             
         </aside>
